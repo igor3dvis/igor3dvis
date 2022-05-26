@@ -2,7 +2,7 @@
 
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>Hi there 👋 My name is Igor. Welcome to my GitHub page.  
-    Here you can see and evaluate my pet projects. I am happy to share with you!</span>
+    Here you can see and give feedback on my pet projects. I am happy to share with you!</span>
 </div>
 
 
