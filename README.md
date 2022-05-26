@@ -16,11 +16,12 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on Portfolio and a few Pit-Projects
-- 🌱 I’m currently learning React/Redux
-- 💬 Ask me about 3D-dev ( modeling / texturing / UV-layout / PBR ), AR/VR/XR-content
-- 📫 How to reach me: **igor3dvis@gmail.com**
-- ⚡ Fun fact: ...
+- I’m currently working on Portfolio and a few Pit-Projects
+- I’m currently learning React/Redux
+- Ask me about 3D-dev ( modeling / texturing / UV-layout / PBR ), AR/VR/XR-content
+- How to reach me: **igor3dvis@gmail.com**
+ 
+*There are two ways to live. The first is to think that there are no miracles at all. The second is to know that there are only miracles around! I chose the second.*
 
 <div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=igor3dvis&style=flat-square&color=blue" alt=""/>
