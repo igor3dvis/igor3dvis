@@ -1,27 +1,25 @@
 <div id="header" >
-  <h1>Hi there 👋</h1>
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-<hr>
 
-### Hi there 👋
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Hi there 👋 My name is Igor. Welcome to my GitHub page.  
+    Here you can see and evaluate my pet projects. I am happy to share with you!</span>
+</div>
+
 
 <div id="badges">
- <a href="your-linkedin-URL">
+ <a href="https://www.linkedin.com/in/3ddev-igor-c/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-facebook-URL">
+  <a href="https://www.facebook.com/artmodeler33">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-
-
+<hr>
 
 - 🔭 I’m currently working on Portfolio and a few Pit-Projects
 - 🌱 I’m currently learning React/Redux
 - 💬 Ask me about 3D-dev ( modeling / texturing / UV-layout / PBR ), AR/VR/XR-content
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: **igor3dvis@gmail.com**
 - ⚡ Fun fact: ...
 
 <div id="header" align="right">
