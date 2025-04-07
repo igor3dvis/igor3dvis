@@ -16,7 +16,7 @@
 </div>
 <hr>
 
-- I’m always have what to do
+- I always have what to do
 - Ask me about 3D-dev ( modeling / texturing / UV-layout / PBR ), AR/VR/XR-content
 - How to reach me: **igor3dvis@gmail.com**
  
